@@ -52,7 +52,7 @@ TriggerClientEvent('esx:showNotification', source, "You have no magazine left.")
 This project is licensed under the MIT License. You are free to modify and distribute it as needed.
 
 ## 🌟 Credits
-Developed by **YourName**. Feel free to contribute or suggest improvements!
+Developed by **Gambxa87**. Feel free to contribute or suggest improvements!
 
 ---
 
